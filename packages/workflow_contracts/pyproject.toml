@@ -1,0 +1,4 @@
+[project]
+name='publishr-workflow-contracts'
+version='0.1.0'
+dependencies=['pydantic>=2.6']
